@@ -1,0 +1,27 @@
+.app__laurels_awards{
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.app__laurels_awards-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    min-width: 230px;
+    margin: 1rem;
+}
+
+.app__laurels_awards-card img{
+    width: 50px;
+}
+
+@media screen and (max-width: 850px) {
+    
+    .app__laurels_awards{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}
