@@ -26,7 +26,7 @@ const galleryImages = [images.gallery01, images.gallery02,images.gallery03,image
           <div className="app__gallery-content">
             <SubHeading title="Instagram"/>
             <h1 className='headtext__cormorant'>Photo Gallery</h1>
-            <p className="p__opensans" style={{color:"#AAA" ,marginTop:"2rem"}}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias excep</p>
+            <p className="p__opensans" style={{color:"#AAA" ,marginTop:"2rem"}}>recognized by the presentation, we leave you here our suggestions.</p>
               <button className='custom'>View More</button>
           </div>
 
